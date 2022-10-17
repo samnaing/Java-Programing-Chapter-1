@@ -1,0 +1,7 @@
+class SongLyrics {
+    public static void main(String[] args) {
+        // Write your code here
+        System.out.println("Class begin today");
+        System.out.println("Class end at 2:30 PM");
+    }
+}
