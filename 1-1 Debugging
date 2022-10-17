@@ -1,0 +1,23 @@
+Original
+
+public class DebugOne1
+{
+   /* This program displays a greeting
+   public void main(String[] args)
+   {
+      System.out.println("Hello")
+   }
+}
+
+
+
+Solution
+
+public class DebugOne1
+{
+   public static void main(String[] args)
+   {
+      System.out.println("Hello");
+      /* This program displays a greeting*/
+   }
+}
